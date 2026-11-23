@@ -1,0 +1,9 @@
+MEGAUTO - pacote
+
+preview/megautos-site.html  -> site completo para abrir no navegador (compilado, com imagens)
+codigo/Home.tsx             -> client/src/pages/Home.tsx
+codigo/CurvedTicker.tsx     -> client/src/components/CurvedTicker.tsx
+codigo/CurvedLoop.tsx       -> client/src/components/CurvedLoop.tsx (sem alteracao)
+codigo/CSS-adicionar-no-index.css -> colar no client/src/index.css
+
+Os outros componentes do projeto (SiteChrome, CarWashHero, ProductShowcase, etc.) nao foram enviados e nao estao aqui.
